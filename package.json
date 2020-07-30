@@ -32,6 +32,7 @@
     ]
   },
   "devDependencies": {
-    "@reactstarter/eslint-config": "^1.0.1"
+    "@reactstarter/eslint-config": "^1.0.1",
+    "typescript": "^3.9.7"
   }
 }
